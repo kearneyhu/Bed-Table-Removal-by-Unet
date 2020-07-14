@@ -5,6 +5,8 @@ This project aims to automatically remove bed/ pillow/ cover from original CT im
 
 The model only supports Grayscale CT.
 
+You can download the well trained model from https://drive.google.com/file/d/1uwYvPBrlLnjPrEqk8qcAZxv7ov60ETds/view?usp=sharing
+
 ## Usage
 **Note : Use Python 3**
 ### Bed removal
